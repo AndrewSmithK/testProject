@@ -1,2 +1,2 @@
 # testProject
-log_form and todoList
+Цей з використанням Webpack
